@@ -1,0 +1,165 @@
+Summary,Issue key,Issue id,Issue Type,Status,Project key,Project name,Project type,Project lead,Project lead id,Project description,Priority,Resolution,Assignee,Assignee Id,Reporter,Reporter Id,Creator,Creator Id,Created,Updated,Last Viewed,Resolved,Due date,Votes,Description,Environment,Watchers,Watchers Id,Original estimate,Remaining Estimate,Time Spent,Work Ratio,Σ Original Estimate,Σ Remaining Estimate,Σ Time Spent,Security Level,Outward issue link (Blocks),Outward issue link (Relates),Attachment,Custom field (Actual end),Custom field (Actual start),Custom field (Change reason),Custom field (Change risk),Custom field (Change type),Custom field (Development),Custom field (Epic Link),Custom field (Impact),Custom field (Issue color),Custom field (Rank),Custom field (Request Type),Sprint,Custom field (Start date),Custom field (Story Points),Custom field (Story point estimate),Custom field (Target end),Custom field (Target start),Custom field (Team),Custom field ([CHART] Date of First Response),Status Category
+Order DATE field accepts Incorrect Date format,UU-40,10050,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 12:36 PM,18/Feb/22 12:49 PM,21/Feb/22 9:46 AM,,,0,"Order DATE field accepts Incorrect Date format
+
+Steps to Reproduce:
+
+1. Navigate to the uniform upskills website
+2.Click on Sales ,then on return tab
+3.Verify the ORDER DATE field with correct date format
+
+Expected Result: if not then error message should be displayed
+
+Actual Result: Order DATE field accepts Incorrect Date format
+
+screenshot:
+
+ !image-2022-02-18-12-36-31-436.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-2,UU-32,18/Feb/22 12:36 PM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-12-36-31-436.png;https://ibmhaldia2.atlassian.net/secure/attachment/10008/image-2022-02-18-12-36-31-436.png,,,,,,{},,,,0|i000av:,,UU Sprint 1,,,,,,,,To Do
+Order DATE field accepts Invalid Date and Future Date,UU-39,10049,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 12:23 PM,18/Feb/22 12:48 PM,18/Feb/22 12:48 PM,,,0,"Order DATE field accepts Invalid Date and Future Date
+
+steps to reproduce:
+
+1. Navigate to the uniform upskills website
+2.Click on Sales ,then on return tab
+3.Verify the ORDER DATE field with INVALID date or future date
+
+
+expected results: if not then error message should be displayed
+
+actual results: Order DATE field accepts Invalid Date and Future Date
+
+screenshot:
+
+ !image-2022-02-18-12-22-40-137.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-2,UU-31,18/Feb/22 12:22 PM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-12-22-40-137.png;https://ibmhaldia2.atlassian.net/secure/attachment/10007/image-2022-02-18-12-22-40-137.png,,,,,,{},,,,0|i000an:,,UU Sprint 1,,,,,,,,To Do
+Order ID  accepts other values also rather than numerical value,UU-38,10048,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 12:11 PM,18/Feb/22 12:47 PM,18/Feb/22 12:47 PM,,,0,"Order ID  accepts other values also rather than numerical value.
+
+steps to reproduce:
+
+1. Navigate to the uniform upskills website
+2.Click on Sales ,then on return tab
+3.Verify the order id must be numerical
+
+expected results: if not then error message should be displayed
+
+actual results: Order ID accepts other values
+
+Screenshot:
+
+ !image-2022-02-18-12-11-29-642.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-2,UU-29,18/Feb/22 12:11 PM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-12-11-29-642.png;https://ibmhaldia2.atlassian.net/secure/attachment/10006/image-2022-02-18-12-11-29-642.png,,,,,,{},,,,0|i000af:,,UU Sprint 1,,,,,,,,To Do
+"telephone number field accepts other value also, apart from numerical value",UU-37,10047,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 12:01 PM,18/Feb/22 12:47 PM,18/Feb/22 12:47 PM,,,0,"telephone number field accepts other value also, apart from numerical value
+
+steps to reproduce:
+1. Navigate to the uniform upskills website
+2.Click on Sales ,then on return tab
+3.Telephone number must be numerical value
+
+expected result: if not then error message should be displayed
+
+actual result: telephone number field accepts other value
+
+screenshot
+
+ !image-2022-02-18-11-59-31-532.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-2,UU-22,18/Feb/22 11:59 AM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-11-59-31-532.png;https://ibmhaldia2.atlassian.net/secure/attachment/10005/image-2022-02-18-11-59-31-532.png,,,,,,{},,,,0|i000a7:,,UU Sprint 1,,,,,,,,To Do
+Mega Tag title contain the speical characters,UU-36,10046,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 11:49 AM,18/Feb/22 12:46 PM,18/Feb/22 12:46 PM,,,0,"Mega Tag title contain the speical characters
+
+steps to  reproduce:
+
+1. Navigate to the uniform upskills website
+2. Click on Catalog tab, then on information and then add new
+3.Verify that the mega tag title must not contain any special character
+
+expected result: error should be dispalyed if any special characters are there
+
+actual result: Mega title accept the special characters 
+
+screenshot:
+
+ !image-2022-02-18-11-49-35-232.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-1,UU-10,18/Feb/22 11:49 AM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-11-49-35-232.png;https://ibmhaldia2.atlassian.net/secure/attachment/10004/image-2022-02-18-11-49-35-232.png,,,,,,{},,,,0|i0009z:,,UU Sprint 1,,,,,,,,To Do
+Information title contains special characters,UU-35,10045,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 11:45 AM,18/Feb/22 12:46 PM,18/Feb/22 12:45 PM,,,0,"Information title contains special characters
+
+steps to reproduce :
+
+1. Navigate to the uniform upskills website
+2. Click on Catalog tab, then on information and then add new
+3.Verify that the information title must not contain any special character
+
+expected result: error should be dispalyed if any special characters are there
+
+actual result: information title accept special characters
+
+screenshot:
+
+ !image-2022-02-18-11-45-06-703.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-1,UU-9,18/Feb/22 11:45 AM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-11-45-06-703.png;https://ibmhaldia2.atlassian.net/secure/attachment/10003/image-2022-02-18-11-45-06-703.png,,,,,,{},,,,0|i0009r:,,UU Sprint 1,,,,,,,,To Do
+Description contain null value without showing any error message,UU-34,10044,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 11:39 AM,18/Feb/22 12:45 PM,18/Feb/22 12:45 PM,,,0,"Description contain null value without showing any error message
+
+Steps To Reproduce
+
+1. Navigate to the uniform upskills website
+2. Click on Catalog tab, then on information and then add new
+3.Verify the description must be between 3 and 1000 character
+
+
+Expected Result: error message should be displayed
+
+Actual Result: null value is accepted
+
+Screenshot
+
+ !image-2022-02-18-11-39-02-944.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-1,UU-6,18/Feb/22 11:39 AM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-11-39-02-944.png;https://ibmhaldia2.atlassian.net/secure/attachment/10002/image-2022-02-18-11-39-02-944.png,,,,,,{},,,,0|i0009j:,,UU Sprint 1,,,,,,,,To Do
+Description accepted null value,UU-33,10043,Bug,To Do,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,18/Feb/22 11:34 AM,18/Feb/22 12:44 PM,18/Feb/22 12:43 PM,,,0,"Description accepted null value
+
+Steps To Reproduce:
+
+1. Navigate to the uniform upskills website
+2. Click on Catalog tab, then on information and then add new
+3.Verify the description must not be null
+
+
+Expected Result: if null then Error message should be displayed
+
+
+Actual Result: Null value is accepted
+
+Screenshot
+
+ 
+ !image-2022-02-18-11-33-33-374.png|thumbnail! ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,UU-1,UU-5,18/Feb/22 11:32 AM;ug:1dc7cca7-1f97-499d-a6a0-ac65579f4264;image-2022-02-18-11-32-46-024.png;https://ibmhaldia2.atlassian.net/secure/attachment/10001/image-2022-02-18-11-32-46-024.png,,,,,,{},,,,0|i0009b:,,UU Sprint 1,,,,,,,,To Do
+Verify the ORDER DATE field with correct date format,UU-32,10042,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:26 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,Verify the ORDER DATE field with correct date format,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i00093:,,UU Sprint 1,,,,,,,,In Progress
+Verify the ORDER DATE field with INVALID date or future date,UU-31,10041,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:26 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,,,0,Verify the ORDER DATE field with INVALID date or future date,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0008v:,,UU Sprint 1,,,,,,,,In Progress
+Check the return status is working properly or not,UU-30,10040,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:26 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,Check the return status is working properly or not,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0008n:,,UU Sprint 1,,,,,,,,Done
+Verify the order id must be numerical,UU-29,10039,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:26 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,,,0,Verify the order id must be numerical,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0008f:,,UU Sprint 1,,,,,,,,In Progress
+"Verify, FIRST NAME field must not be null",UU-28,10038,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:26 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, FIRST NAME field must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i00087:,,UU Sprint 1,,,,,,,,Done
+"Verify, LAST NAME,  must not be null",UU-27,10037,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, LAST NAME must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0007z:,,UU Sprint 1,,,,,,,,Done
+"Verify, EMAIL , must not be null",UU-26,10036,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, EMAIL, must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0007r:,,UU Sprint 1,,,,,,,,Done
+"Verify, TELEPHONE, must not be null",UU-25,10035,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, TELEPHONE ,must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0007j:,,UU Sprint 1,,,,,,,,Done
+"Verify, PRODUCT , must not be null",UU-24,10034,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, PRODUCT, must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0007b:,,UU Sprint 1,,,,,,,,Done
+"Verify, ORDER ID must not be null",UU-23,10033,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,"Verify, ORDER ID must not be null",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i00073:,,UU Sprint 1,,,,,,,,Done
+"Verify, Telephone no. must be numerical value",UU-22,10032,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,Telephone number must be numerical value,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0006v:,,UU Sprint 1,,,,,,,,In Progress
+Verify the Email field is less than 30 characters,UU-21,10031,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,Verify the Email field is less than 30 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0006n:,,UU Sprint 1,,,,,,,,Done
+Verify the Email is valid i.e it must contains '@' symbol,UU-20,10030,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,Verify the Email is valid i.e it must contains '@' symbol,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0006f:,,UU Sprint 1,,,,,,,,Done
+Verify that last name must be between 1 and 32 characters,UU-19,10029,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,Verify that first name must be between 1 and 32 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i00067:,,UU Sprint 1,,,,,,,,Done
+Verify that first name must be between 1 and 32 characters,UU-18,10028,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:58 PM,21/Feb/22 9:49 AM,18/Feb/22 12:58 PM,,0,Verify that first name must be between 1 and 32 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,UU-2,,,,,,,,{},,,,0|i0005z:,,UU Sprint 1,,,,,,,,Done
+"Verify the save and cancel button ,working properly or not",UU-17,10027,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,"Verify the save and cancel button ,working properly or not",,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0005r:,,UU Sprint 1,,,,,,,,Done
+Verify the SEO URL with unique data,UU-16,10026,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify the SEO URL with unique data,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0005j:,,UU Sprint 1,,,,,,,,Done
+Verify the Pagination atfer adding some rows,UU-15,10025,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify the Pagination atfer adding some rows,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0005b:,,UU Sprint 1,,,,,,,,Done
+Verify that the sort column must be arranged in ascending or descending order,UU-14,10024,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify that the sort order column must be arranged ascending or descending order.,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i00053:,,UU Sprint 1,,,,,,,,Done
+Verify that the information title column must be arranged alphabetically,UU-13,10023,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify that the information title column must be arranged alphabetically,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0004v:,,UU Sprint 1,,,,,,,,Done
+verify that  add new button is working properly,UU-12,10022,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,verify the add new button is working properly,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0004n:,,UU Sprint 1,,,,,,,,Done
+verify that the delete button is working properly,UU-11,10021,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,verify that the delete button is working properly,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0004f:,,UU Sprint 1,,,,,,,,Done
+verify that the mega tag title must not contain any special character,UU-10,10020,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,verify that the mega tag title must not contain any special character,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i00047:,,UU Sprint 1,,,,,,,,In Progress
+Verify that the information title must not contain any special character,UU-9,10019,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,Verify that the information title must not contain any special character,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0003z:,,UU Sprint 1,,,,,,,,In Progress
+Verify the mega tag title must be between 3 and 255 characters,UU-8,10018,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify the mega tag title must be between 3 and 255 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0003r:,,UU Sprint 1,,,,,,,,Done
+verify the mega tag title must not be null,UU-7,10017,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,verify the mega tag title must not be null,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0003j:,,UU Sprint 1,,,,,,,,Done
+Verify the description must be between 3 and 100 characters,UU-6,10016,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,Verify the description must be between 3 and 100 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0003b:,,UU Sprint 1,,,,,,,,In Progress
+Verify the description must not be null,UU-5,10015,Test,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:56 PM,21/Feb/22 9:49 AM,,,0,Verify the description must not be null,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i00033:,,UU Sprint 1,,,,,,,,In Progress
+Verify the Information title must not be null,UU-4,10014,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,21/Feb/22 9:49 AM,18/Feb/22 12:57 PM,,0,Verify the Information title must not be null,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0002v:,,UU Sprint 1,,,,,,,,Done
+Verify the Information title must be between 3 and 64 characters,UU-3,10013,Test,Done,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,Done,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,17/Feb/22 10:25 PM,18/Feb/22 12:57 PM,18/Feb/22 12:52 PM,18/Feb/22 12:57 PM,,0,Verify the Information title must be between 3 and 64 characters,,Zephyr for Jira - Test Management,557058:d99b15ce-fb96-40a1-b6e7-3ffdc632dc73,,,,,,,,,,UU-1,,,,,,,{},,,,0|i0002n:,,UU Sprint 1,,,,,,,,Done
+As an Admin I want to edit Information so that I can survey,UU-2,10012,Story,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,17/Feb/22 10:21 PM,18/Feb/22 12:55 PM,18/Feb/22 12:54 PM,,,0,"acceptance criteria
+
+# There should be an adding feature
+# There should be an editing feature 
+# There should be a deleting feature",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,,,,,,,,,{},,,,0|i0002b:,,UU Sprint 1,,,,,,,,In Progress
+As an Admin I want to edit Return List  so that I can survey,UU-1,10011,Story,In Progress,UU,Uniform Upskill,software,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,Medium,,,,SURJAYAN DUTTA,620b3049eb2978006890ff2a,SURJAYAN DUTTA,620b3049eb2978006890ff2a,17/Feb/22 10:18 PM,18/Feb/22 12:55 PM,18/Feb/22 12:52 PM,,,0,"acceptance criteria
+
+# There should be an adding feature 
+# There should be an editing feature
+# There should be a deleting feature ",,SURJAYAN DUTTA,620b3049eb2978006890ff2a,,,,,,,,,,,,,,,,,{},,,,0|i00029:,,UU Sprint 1,,,,,,,,In Progress
